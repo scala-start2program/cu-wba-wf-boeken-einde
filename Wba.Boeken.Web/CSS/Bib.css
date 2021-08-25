@@ -1,0 +1,17 @@
+﻿.popup {
+    display: block;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    width: 60%;
+    height: auto;
+    margin-left: -30%;
+}
+
+.inactive {
+    opacity: 0.2;
+}
+
+.active {
+    opacity: 1;
+}
